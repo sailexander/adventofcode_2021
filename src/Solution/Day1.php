@@ -26,11 +26,11 @@ class Day1 extends Algorithm
             $previous = $value;
         }
 
-        echo 'times increased: ' . $increase . PHP_EOL;
-        echo 'times decreased: ' . $decrease . PHP_EOL;
+        echo "times increased: $increase" . PHP_EOL;
+        echo "times decreased: $decrease" . PHP_EOL;
 
         // PART 2
-        echo 'PUZZLE DAY 1 PART 1' . PHP_EOL;
+        echo PHP_EOL . 'PUZZLE DAY 1 PART 1' . PHP_EOL;
 
         $SIZE = 3;
         $increase = 0;
@@ -48,7 +48,7 @@ class Day1 extends Algorithm
             }
         }
 
-        echo 'times increased: ' . $increase . PHP_EOL;
-        echo 'times decreased: ' . $decrease . PHP_EOL;
+        echo "times increased: $increase" . PHP_EOL;
+        echo "times decreased: $decrease" . PHP_EOL;
     }
 }
