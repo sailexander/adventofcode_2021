@@ -1,0 +1,14 @@
+{
+    "name": "simon/adventofcode",
+    "description": "PHP practice",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Simon Gold",
+            "email": "simon.gold@y1.de"
+        }
+    ],
+    "require": {
+        "php": "~7.4.0"
+    }
+}
