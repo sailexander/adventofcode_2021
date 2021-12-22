@@ -8,6 +8,11 @@
             "email": "simon.gold@y1.de"
         }
     ],
+    "autoload": {
+        "psr-4" : {
+            "Solution\\" : "src/Solution/"
+        }
+    },
     "require": {
         "php": "~7.4.0"
     }
