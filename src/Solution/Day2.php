@@ -3,7 +3,7 @@
 namespace Solution;
 
 /**
- * Solution to Day 1
+ * @see https://adventofcode.com/2021/day/2
  */
 class Day2 extends Algorithm
 {
