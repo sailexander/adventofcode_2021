@@ -127,7 +127,7 @@ class Day4 extends Algorithm
         }
 
         //check rows
-        /*
+
         $result = true;
         foreach ($matches as $row) {
             foreach ($row as $value) {
@@ -139,7 +139,7 @@ class Day4 extends Algorithm
             if ($result) {
                 return true;
             }
-        }*/
+        }
 
         return false;
     }
